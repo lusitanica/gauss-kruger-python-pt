@@ -7,7 +7,7 @@ There is no simple closed formula to do so when the earth is modelled as an elli
 
 Natural origin is hard-coded inside the Gauss-Kruger projection functions. 
 
-Used, with a different natural origin, by:
+Used, with a different natural origin and a different ellipsoid (GRS-80), by:
 
 http://geodivagar.appspot.com/geogauss?lat=38.01132704&lng=-7.87167688
 
