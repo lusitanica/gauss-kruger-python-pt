@@ -15,4 +15,5 @@ http://geodivagar.appspot.com/geogauss?lat=38.01132704&lng=-7.87167688
 http://geodivagar.appspot.com/gaussgeo?x=22958.6550821&y=-183907.735462
 
 
+Published on GAE in 2010
 
