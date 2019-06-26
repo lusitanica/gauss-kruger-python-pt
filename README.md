@@ -1,13 +1,13 @@
-# gauss-kruger-python-pt
+# gauss-kruger-python
 
 
 Computational method for Transverse Mercator: 
 That is, how to convert between latitude/longitude and projected coordinates, and vice versa. 
 There is no simple closed formula to do so when the earth is modelled as an ellipsoid.
 
-Natural origin is hard-coded inside the Gauss-Kruger projection functions. 
+irish.py - Irish Transverse Mercator 
 
-Used, with a different natural origin and a different ellipsoid (GRS-80), by:
+
 
 http://geodivagar.appspot.com/geogauss?lat=38.01132704&lng=-7.87167688
 
