@@ -7,7 +7,11 @@ There is no simple closed formula to do so when the earth is modelled as an elli
 
 irish.py - Irish Transverse Mercator 
 
+pttm.py - PT-TM06/ETRS89 
 
+
+
+PT-TM06/ETRS89 as a web service returning JSON (accepts an optional "callback" paramater):
 
 http://geodivagar.appspot.com/geogauss?lat=38.01132704&lng=-7.87167688
 
